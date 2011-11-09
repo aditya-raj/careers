@@ -53,14 +53,15 @@ Votizen is looking for a strong Python web developer to work on the building of 
 Candidates must have experience in developing web applications using Python and a SQL-based DB, have knowledge of OO engineering principles, believe in unit-testing their code, and understand regular expressions. Expertise in Django and PostgreSQL is preferred. Additional skills in HTML, JavaScript and CSS are also desired. Knowledge of Continuous Deployment Strategies, AWS, Puppet, Redis, Celery, RabbitMQ, and Memcached would be a plus.
 
 Responsibilities:
-•     Analyze, architect and develop database-driven applications using Python, Django, HTML, JavaScript, and PostgreSQL.
-•     Research, analyze, implement and integrate new mechanisms and technologies to solve technical problems (don't reinvent the wheel).
-•     Proven experience in developing high availability, high volume web based applications using Python, Django, and PostgreSQL.
-•     Experience with HTML, JavaScript, and CSS.
-•     Experience with the APIs from social networks like Facebook and Twitter.
-•     Experience with database design and optimizations.
-•     Strong written and verbal communication skills
-•     Excels at working in a highly collaborative environment
+
+    Analyze, architect and develop database-driven applications using Python, Django, HTML, JavaScript, and PostgreSQL.
+    Research, analyze, implement and integrate new mechanisms and technologies to solve technical problems (don't reinvent the wheel).
+    Proven experience in developing high availability, high volume web based applications using Python, Django, and PostgreSQL.
+    Experience with HTML, JavaScript, and CSS.
+    Experience with the APIs from social networks like Facebook and Twitter.
+    Experience with database design and optimizations.
+    Strong written and verbal communication skills
+    Excels at working in a highly collaborative environment
 
 What we offer
 =============
