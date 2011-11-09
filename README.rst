@@ -49,15 +49,18 @@ Bottom Line:  Go Big or Go Home.  There is no middle ground.
 
 What we're looking for
 ======================
+Votizen is looking for a strong Python web developer to work on the building of new features and products related to the Votizen website and future API.
+Candidates must have experience in developing web applications using Python and a SQL-based DB, have knowledge of OO engineering principles, believe in unit-testing their code, and understand regular expressions. Expertise in Django and PostgreSQL is preferred. Additional skills in HTML, JavaScript and CSS are also desired. Knowledge of Continuous Deployment Strategies, AWS, Puppet, Redis, Celery, RabbitMQ, and Memcached would be a plus.
 
-We are looking for backend engineers.  We want persons who have worked on low-level languages, have architected systems, or otherwise have built things from scratch that scaled.  If you think elegant, well-documented code is as beautiful as anything you'd find in a museum then you're the type of person we want.
-
-We are not looking for accidental hackers.  We want people who have written their own framework, rather than used one to create a website.  We don't specifically require a CS degree, but we generally expect to see one in a backend engineer.  A great candidate will be able to point to a body of work used by others or accepted pull requests on Github (ie, not just lots of forks.)  Inflated titles like CTO are not impressive to us; a well-followed blog or project is.  
-
-Above all, we want A players.  Our standards are very, very high but we are at the very early stages and want high-quality talent that will attract other high-quality talent.
-
-We are a Python/Django shop.  We trust the right engineer will not have a problem switching to these but without knowledge of either the hiring process will be very difficult.
-
+Responsibilities:
+•     Analyze, architect and develop database-driven applications using Python, Django, HTML, JavaScript, and PostgreSQL.
+•     Research, analyze, implement and integrate new mechanisms and technologies to solve technical problems (don't reinvent the wheel).
+•     Proven experience in developing high availability, high volume web based applications using Python, Django, and PostgreSQL.
+•     Experience with HTML, JavaScript, and CSS.
+•     Experience with the APIs from social networks like Facebook and Twitter.
+•     Experience with database design and optimizations.
+•     Strong written and verbal communication skills
+•     Excels at working in a highly collaborative environment
 
 What we offer
 =============
@@ -98,9 +101,8 @@ Compensation
 ---------------
 Being a Peter Thiel funded company, we place a premium on equity participation and not cash salary.  We encapsulate this as, "Salary to live on; Equity to retire on."  Basically, we can be competitive with other startups, but not with Google, Facebook or other more established tech companies.  Then again, our appreciation potential is much higher.  Our goal is to make the equity in the company as valuable as possible and we want to ensure that everyone is aligned accordingly.  
 
-Tools
------
-We don't have religion on tools.  Our basic principle is to use the simplest tool that will get the job done.  While things may change, you should have a good understanding of the following:
+Tools We Use
+--------------
 
 - Amazon Web Services
     - EC2 for front-end servers
@@ -118,10 +120,24 @@ Process
 =======
 Following is the hiring process to which we aspire:
 
+Prescreen
+----------
+Once a resume has been received, our HR Director will arrange a 5-10 minute call to discuss the following questions:
+
+    1. Are you interested in web development?
+    2. Are you willing to work with Python/Django?
+    3. Are you interested in working in a startup environment?
+    4. Are you willing to work out of our Mountain View office daily?
+    5. Are you interested in politics?
+
+After the discussion a decision will be made based on one of two outcomes:
+
+    1.  Send resume for 'Portfolio Review'
+    2.  `No Match`_
 
 Portfolio Review
 ----------------
-Once submitted, we review a candidate's resume to assess experience and qualifications.  After the review, there should be one of two outcomes:
+We review a candidate's resume to assess experience and qualifications.  After the review, there should be one of two outcomes:
 
     1.  Schedule `Sell & Evaluation Screen`_
     2.  `No Match`_
