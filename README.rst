@@ -25,7 +25,7 @@ Votizen is about connecting voters: connecting voters to issues they care about,
 
 Our Mission
 -----------
-Our mission is to make voters as powerful between elections as they are on election day.
+Our mission is to create a connected electorate of voting citizens -- Votizens -- and rebuild the political graph in favor of the voter, not special interests.
 
 Our Vision
 ----------
