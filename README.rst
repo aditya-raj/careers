@@ -49,7 +49,7 @@ Bottom Line:  Go Big or Go Home.  There is no middle ground.
 
 What we're looking for
 ======================
-Votizen is looking for a strong Python web developer to work on the building of new features and products related to the Votizen website and future API.
+Votizen is looking for a strong Python web developer to work on building new features and products related to the Votizen website and future API.
 Candidates must have experience in developing web applications using Python and a SQL-based DB, have knowledge of OO engineering principles, believe in unit-testing their code, and understand regular expressions. Expertise in Django and PostgreSQL is preferred. Additional skills in HTML, JavaScript and CSS are also desired. Knowledge of Continuous Deployment Strategies, AWS, Puppet, Redis, Celery, RabbitMQ, and Memcached would be a plus.
 
 Responsibilities:
