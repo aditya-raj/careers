@@ -33,15 +33,26 @@ We are a network-effect business; the more voters that participate in the system
 
 What We're Looking For
 ======================
+Votizen is looking for a strong Python web developer to work on building new features and products related to the Votizen website and API.
+Candidates must have experience in developing web applications using Python and a SQL-based DB, have knowledge of OO engineering principles, believe in unit-testing their code, and understand regular expressions. Expertise in Django and PostgreSQL is preferred. Additional skills in HTML, JavaScript and CSS are also desired. Knowledge of Continuous Deployment Strategies, AWS, Puppet, Redis, Celery, RabbitMQ, and Memcached would be a plus.
 
-We are looking for brilliant engineers with a passion for our mission.  If you think elegant code has the power to change the world, we want to talk to you.
 
-We are not looking for accidental hackers.  We want people who have written their own framework, rather than used one to create a website.  We expect to see a CS degree *or* a ton of initiative.  A great candidate will be able to point to a body of work used by others or accepted pull requests on Github (ie, not just lots of forks.)  Inflated titles like CTO are not impressive to us; a well-followed blog or project is.  
+Responsibilities
+================
 
-Above all, we want really smart people committed to our goals.  Our standards are very, very high but we believe that we are solving the single-most important problem facing our country and our world.  This is a calling, not a job.
+-Analyze, architect, and develop database-driven applications using Python, Django, HTML, Javascript, and PostgreSQL.
+-Research, analyze, implement and integrate new mechanisms and technologies to solve technical problems (don't reinvent the wheel).
+-Proven experience in developing high availability, high volume web based applications using Python, Django, and PostgreSQL.
 
-We are a Python/Django shop.  The right engineer will not have a problem switching to these but without knowledge of either the hiring process will require additional work to prove that.  Be warned.
 
+Experience
+==========
+
+-Experience with HTML, Javascript, and CSS.
+-Experience with the APIs from social networks like Facebook and Twitter.
+-Experience with database design and optimizations.
+-Strong written and verbal communication skills.
+-Excel at working in a highly collaborative environment.
 
 What We Offer
 =============
@@ -82,9 +93,8 @@ Compensation
 ---------------
 We place a premium on equity participation and not salary.  Our belief is,  "Salary to live on; Equity to retire on."  In fact, we have a hard cap on our salary of $120,000.  No one in the company makes more than that.  
 
-Tools
------
-We don't have religion on tools.  Our basic principle is to use the simplest tool that will get the job done.  While things may change, you should have a good understanding of the following:
+Tools We Use
+--------------
 
 - Amazon Web Services
     - EC2 for front-end servers
@@ -102,10 +112,24 @@ Process
 =======
 Following is the hiring process to which we aspire:
 
+Prescreen
+----------
+Once a resume has been received, our HR Director will arrange a 5-10 minute call to discuss the following questions:
+
+    1. Are you interested in web development?
+    2. Are you willing to work with Python/Django?
+    3. Are you interested in working in a startup environment?
+    4. Are you willing to work out of our Mountain View office daily?
+    5. Are you interested in politics?
+
+After the discussion a decision will be made based on one of two outcomes:
+
+    1.  Send resume for 'Portfolio Review'
+    2.  `No Match`_
 
 Portfolio Review
 ----------------
-Once submitted, we review a candidate's resume to assess experience and qualifications.  After the review, there should be one of two outcomes:
+We review a candidate's resume to assess experience and qualifications.  After the review, there should be one of two outcomes:
 
     1.  Schedule `Sell & Evaluation Screen`_
     2.  `No Match`_

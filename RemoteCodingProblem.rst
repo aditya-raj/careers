@@ -15,7 +15,8 @@ Your task, should you choose to accept, is to build a simple blogging site using
 - all users can comment on blog articles
 - a blog article consists of a three parts: title, body, slug, and date
 - the index page should be a list of all articles
-- each blog article should have a link to a post page, where the URL is mysite.com/slug/
+- each blog article should have a link to a post page, where the URL is mysite.com/{URL_SLUG_FOR_POST}/
+- POST requests should process the request using Django forms
 - site should be served via Apache and WSGI
 - server configuration, should be included in the github repo
 
