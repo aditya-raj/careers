@@ -6,9 +6,6 @@
 Careers at Votizen
 ==================
 
-
-Preface::
-
 This packet is designed to provide:
 
     1. An `Overview`_ of Votizen
