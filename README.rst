@@ -40,19 +40,25 @@ Candidates must have experience in developing web applications using Python and 
 Responsibilities
 ================
 
--Analyze, architect, and develop database-driven applications using Python, Django, HTML, Javascript, and PostgreSQL.
--Research, analyze, implement and integrate new mechanisms and technologies to solve technical problems (don't reinvent the wheel).
--Proven experience in developing high availability, high volume web based applications using Python, Django, and PostgreSQL.
+- Analyze, architect, and develop database-driven applications using Python, Django, HTML, Javascript, and PostgreSQL.
+
+- Research, analyze, implement and integrate new mechanisms and technologies to solve technical problems (don't reinvent the wheel).
+
+- Proven experience in developing high availability, high volume web based applications using Python, Django, and PostgreSQL.
 
 
 Experience
 ==========
 
--Experience with HTML, Javascript, and CSS.
--Experience with the APIs from social networks like Facebook and Twitter.
--Experience with database design and optimizations.
--Strong written and verbal communication skills.
--Excel at working in a highly collaborative environment.
+- Experience with HTML, Javascript, and CSS.
+
+- Experience with the APIs from social networks like Facebook and Twitter.
+
+- Experience with database design and optimizations.
+
+- Strong written and verbal communication skills.
+
+- Excel at working in a highly collaborative environment.
 
 What We Offer
 =============
