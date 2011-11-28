@@ -9,74 +9,58 @@ Careers at Votizen
 
 Preface::
 
-    This packet is designed to provide 1) an overview of Votizen, 2) what we're
-    looking for in team members, 3) what we offer in a career, and 4) the 
-    process we use to find good matches to join our team.
+This packet is designed to provide 1) an overview of Votizen, 2) what we're looking for in team members, 3) what we offer in a career, and 4) the process we use to find good matches to join our team.
 
 Overview
 ========
 
-What We Do
-----------
-
-**Connecting Voters**
-
-Votizen is about connecting voters: connecting voters to issues they care about, connecting voters to their officials, and connecting voters to other voters.  Votizen powers a listening platform where voters come together to express themselves in an authentic, open, and measurable way that encourages accountability and solution-oriented discussion.  
-
 Our Mission
 -----------
-Our mission is to make voters as powerful between elections as they are on election day.
+Our mission is to put political power back where it belongs: in the hands of voters.
 
 Our Vision
 ----------
-Since the Nixon/Kennedy debate, television has dominated U.S. politics.  Today, campaigns spend hundreds of millions of dollars on television commercials to get elected, often through ads which attack the opposition rather than promote positions.  Eventually, the campaigns end and the winner takes office.  Still, the rancor persists, paralyzing our leadership and poisoning public discussion until the next election -- when it only gets worse.  Most agree that this approach is fundamentally broken.
+We don't believe a broken system is capable of fixing itself.  Change must come from outside.  Social media are disrupting politics in profound ways, creating a new model for civic engagement.  
 
-Yet there are signs this is changing.  Internet spending has more than quadrupled in the past election cycle.  Barack Obama spent less than half his total budget on television -- the first time in the modern age that a presidential campaign dipped below the 50% threshold.  Perhaps the most striking example of this shift was a 2010 statewide California race that had a prominent insider raise more than a million dollars, hire the best consultants, and run a textbook campaign -- losing to a previously unknown challenger who only spent $3000 to cover the filing fee but made effective use of Facebook, Twitter, and YouTube.  These are all examples of a clear trend: we are moving past the one-way campaign and into the era of the connected election.
+At Votizen we recognize this and are helping invert the political system, putting voters back into the position of power and influence.  Our members already have millions of friends in their existing personal networks.  We simply identify and connect those who are the most active voters and bring them together, voter-to-voter, based on common interests.  This data- and relationship-driven approach makes voters not passive targets of carefully crafted messages, but active participants in a connected election.
 
-Votizen sees this trend, and is focused on connecting voters.  We believe that in a connected world the wisdom of crowds prevails over narrow extremism.  We believe that in a connected election 30-second attack ads are powerless.  We believe that connected voters represent the future of democracy.  Votizen wants to foster, create, and empower those connections, giving real people the tools to have a real impact on the challenges facing our communities, our country, and our world.
-
-This is happening now. The technology is maturing, the people are ready, and we intend to make the Votizen vision a reality.
-
+The recommendation of a trusted friend is infinitely more powerful than any 30-second attack ad or robocall.  This has always been true, but in the past our personal networks have been easily overpowered by broadcast networks.  No longer.  Now social networks have the power, and command the attention and respect of those we trust.  Votizen wants to empower these networks to fundamentally redefine politics in 2012 and beyond.  
 
 Business Model
 --------------
-Our business model is similar to LinkedIn: as LinkedIn charges to facilitate connections between recruiters and job seekers, so do we charge to facilitate connections between campaigns and voters.  For instance, a recent campaign to help support job creators in the US used the Votizen platform to connect to voters, gather support, and be heard in Washington.  This attracted the attention of the right officials, getting them to listen and eventually resulting in new legislation introduced into the US Senate.  
-
-We are a network-effect business; meaning, the more voters that participate in the system, the more valuable the overall system becomes.  Network effect businesses are notoriously difficult to establish, but once established they are immensely valuable (Facebook, EBay, LinkedIn are other examples of network-effect businesses.)  Politics is a $10B a year industry that has grown 25% per year for fifty straight years.  We think there is a huge business opportunity here that will help ordinary people become better and more engaged citizens.
-
-Bottom Line:  Go Big or Go Home.  There is no middle ground.
+We are a network-effect business; the more voters that participate in the system, the more valuable the overall system becomes.  Network effect businesses are difficult to establish, but once built they are immensely valuable (Facebook, EBay, LinkedIn are other examples of network-effect businesses.)  Politics is a $10B a year industry that has grown 25% per year for fifty straight years; all of the industry's future growth will take place on the political graph, and we are going to be at the center of that market.
 
 
-What we're looking for
+What We're Looking For
 ======================
 
-We are looking for backend engineers.  We want persons who have worked on low-level languages, have architected systems, or otherwise have built things from scratch that scaled.  If you think elegant, well-documented code is as beautiful as anything you'd find in a museum then you're the type of person we want.
+We are looking for brilliant engineers with a passion for our mission.  If you think elegant code has the power to change the world, we want to talk to you.
 
-We are not looking for accidental hackers.  We want people who have written their own framework, rather than used one to create a website.  We don't specifically require a CS degree, but we generally expect to see one in a backend engineer.  A great candidate will be able to point to a body of work used by others or accepted pull requests on Github (ie, not just lots of forks.)  Inflated titles like CTO are not impressive to us; a well-followed blog or project is.  
+We are not looking for accidental hackers.  We want people who have written their own framework, rather than used one to create a website.  We expect to see a CS degree *or* a ton of initiative.  A great candidate will be able to point to a body of work used by others or accepted pull requests on Github (ie, not just lots of forks.)  Inflated titles like CTO are not impressive to us; a well-followed blog or project is.  
 
-Above all, we want A players.  Our standards are very, very high but we are at the very early stages and want high-quality talent that will attract other high-quality talent.
+Above all, we want really smart people committed to our goals.  Our standards are very, very high but we believe that we are solving the single-most important problem facing our country and our world.  This is a calling, not a job.
 
-We are a Python/Django shop.  We trust the right engineer will not have a problem switching to these but without knowledge of either the hiring process will be very difficult.
+We are a Python/Django shop.  The right engineer will not have a problem switching to these but without knowledge of either the hiring process will require additional work to prove that.  Be warned.
 
 
-What we offer
+What We Offer
 =============
 
 Change the world potential
 --------------------------
-First and foremost, we're working on something that truly has the potential to change the world in profound ways.  We're helping repair Democracy, and we think that's a lot more important than building a revolutionary way to sell grilled cheese.  Social media is maturing beyond a mere entertainment medium and is helping to depose dictators and increase freedom across the globe.  We're trying to harness that power to improve how government serves its citizens and fix a broken system.  In short, we're not just another Groupon clone.
+First and foremost, we're working on something that truly has the potential to change the world in profound ways.  We're ensuring our democracy will be around for our grandkids, and that's a lot more important than building a revolutionary way to sell grilled cheese or running a quick flip on a Groupon clone.
 
 Hard technical challenges
 -------------------------
-We have huge challenges in machine learning, classification, and general scale.  Our database already has every voter in the United States plus their voting history -- in some cases going back thirty years.  This is a billion rows of data and we've barely even started.  We need to figure out how to process this information in way that is meaningful to each and every voter starting in the US (200 million voters) and eventually abroad (Democracy is a growth business.)  Moreover, we have a new approach to social networking that uses dynamic linking, meaning: forming and re-forming the interest graph as opinions change, accommodating new nodes and edges in realtime along the way.  No one has done this before, and it represents the future of social networks.
+We have huge challenges in machine learning, classification, and scale.  Our database already has every voter in the United States plus their voting history -- in some cases going back thirty years.  This is a billion rows of data and we've barely even started.  We need to figure out how to process this information in way that is meaningful to each and every voter starting in the US (200 million voters) and eventually abroad (Democracy is a growth business.)  Moreover, we have a new approach to social networking that uses dynamic linking, meaning: forming and re-forming the interest graph as opinions change, accommodating new nodes and edges in realtime along the way.  No one has done this before, and it represents the future of social networks.
 
-Real people, real usage, real important
----------------------------------------
+Lasting Impact
+--------------
 As our success grows, more and more real people are going to rely on our tools to help form decisions about the future of our country.  This means that millions of voters will use the tools our engineers create, and will use them every day.  It will be a badge of honor that Votizen engineers work on something so important and fundamental to the lives of everyday citizens.
 
 Top-notch team
 --------------
-Our team is very strong:  David Binetti, our CEO, has ten years' industry experience and was the creator of one of the first examples of government e-transparency:  USA.gov.  Jason Putorti, our designer, was the lead designer for Mint.com and is one of the most highly sought-after designers in the valley.  Matt Snider, our engineer, is a front-end guru and has written a book on Javascript (literally).  We want to continue the tradition of only hiring the very best in a given person's field of expertise.
+Our team is very strong:  David Binetti, our CEO, has ten years' industry experience and was the creator of one of the first examples of government e-transparency:  USA.gov.  Jason Putorti, our designer, was the lead designer for Mint.com and is one of the most highly sought-after designers in the valley.  Matt Snider, our engineer, is a front-end guru and has written a book on Javascript (literally).  Jeremy Dunck is a Python expert and the Secretary of the Django foundation.  David Gouldin is a contributor to httplib2 which is the dominant python HTTP library.  You get the idea: we want to continue the tradition of only hiring the very best in a given person's field of expertise.
 
 Agile process
 -------------
@@ -84,7 +68,7 @@ We ascribe to agile development processes.  We are big believers in test-driven 
 
 Great investors
 ---------------
-Our lead investor is Peter Thiel who has one of the best track records in picking winners.  Our board member is Sean Parker.  We have some of the most prescient investors in the business, including Keith Rabois, Mark Goines, Ron Conway, Chris Dixon, and David Cowan.  These investors see a huge opportunity in a space ripe for disruption, and anyone thinking about participating in this space knows that the group we've assembled is second to none. 
+Our lead investor is Peter Thiel who has an exceptional track record in picking winners.  Our board member is Sean Parker.  We have some of the most prescient investors in the business, including Keith Rabois, Mark Goines, Ron Conway, Chris Dixon, and David Cowan.  These investors see a huge opportunity in a space ripe for disruption, and anyone thinking about participating in this space knows that the group we've assembled is second to none. 
 
 Fantastic culture
 -----------------
@@ -96,7 +80,7 @@ Our benefits and perks are quite light compared to other large companies.  We do
 
 Compensation
 ---------------
-Being a Peter Thiel funded company, we place a premium on equity participation and not cash salary.  We encapsulate this as, "Salary to live on; Equity to retire on."  Basically, we can be competitive with other startups, but not with Google, Facebook or other more established tech companies.  Then again, our appreciation potential is much higher.  Our goal is to make the equity in the company as valuable as possible and we want to ensure that everyone is aligned accordingly.  
+We place a premium on equity participation and not salary.  Our belief is,  "Salary to live on; Equity to retire on."  In fact, we have a hard cap on our salary of $120,000.  No one in the company makes more than that.  
 
 Tools
 -----
@@ -128,7 +112,7 @@ Once submitted, we review a candidate's resume to assess experience and qualific
 
 Sell & Evaluation Screen
 ------------------------
-The Sell & Evaluation screen is a 20-30 minute interview where the screener's goal is to sell the Votizen vision, feel out the candidates interest, and read whether or not they would be a good fit. This screener should notify the candidate that the next step is an involved 3-6 hour manditory coding problem. After the screen, a decision should be immediately made according to one of two outcomes:
+The Sell & Evaluation screen is a 20-30 minute interview where the screener's goal is to sell the Votizen vision, feel out the candidates interest, and read whether or not they would be a good fit. This screener should notify the candidate that the next step is an involved 3-6 hour mandatory coding problem. After the screen, a decision should be immediately made according to one of two outcomes:
 
     1.  Send `Remote Coding Problem`_
     2.  `No Match`_
@@ -144,7 +128,7 @@ The coding problem is included in this repository as RemoteCodingProblem.rst, an
 
 On Site Pair Programming
 ------------------------
-The on site pair programming is an in-person interview, where the candidate will be tasked to code a multi-layered problem on a computer while being paired with one of our engineers. The candidate should be asked to bring a laptop with them (and they can use the language of their choice), or we will have to provide one (and they will have to code in Python). The candidate can choose between two carefully crafted problems, included in this repository as OnSitePairProblem.rsr. After the on-site, a decision should be immediately made according to one of two outcomes:
+The on site pair programming is an in-person interview, where the candidate will be tasked to code a multi-layered problem on a computer while being paired with one of our engineers. The candidate should be asked to bring a laptop with them (and they can use the language of their choice), or we will provide one.  After the on-site, a decision should be immediately made according to one of two outcomes:
 
     1.  If good fit, schedule `On Site Team`_
     2.  `No Match`_
@@ -159,7 +143,7 @@ The on site team is the final step meant to give all team members an opportunity
 
 Reference Check
 ---------------
-Reference check should be the final assessment of skills: 
+Reference check should be the final assessment of skills.  It is designed really as a veto in case any material information has been misstated or other major issues surface.: 
 
     1.  `If passes, Hire`_
     2.  `No Match`_
