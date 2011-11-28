@@ -9,7 +9,15 @@ Careers at Votizen
 
 Preface::
 
-This packet is designed to provide 1) an overview of Votizen, 2) what we're looking for in team members, 3) what we offer in a career, and 4) the process we use to find good matches to join our team.
+This packet is designed to provide:
+
+    1. An `Overview`_ of Votizen
+
+    2. `What We're Looking For`_ in team members 
+    
+    3. `What We Offer`_ in a career
+    
+    4. The `Process`_ we use to find good matches to join our team
 
 Overview
 ========
@@ -130,7 +138,7 @@ Once a resume has been received, our HR Director will arrange a 5-10 minute call
 
 After the discussion a decision will be made based on one of two outcomes:
 
-    1.  Send resume for 'Portfolio Review'
+    1.  Send resume for 'Portfolio Review'_
     2.  `No Match`_
 
 Portfolio Review
@@ -167,7 +175,7 @@ On Site Team
 ------------
 The on site team is the final step meant to give all team members an opportunity to assess culture fit. Generally, this should immediately follow the "On Site Pair Programming" step and include a lunch or dinner, but if pressed for time, simply a meet-and-greet. Prior to the team meeting, the focus should be on matching the skills to the role. The team meeting is for matching the personality to the culture of the company. After the on site team interview, all team members should come together to make a determination as follows:
 
-    1.  `If good fit, Reference Check`_
+    1.  If good fit, `Reference Check`_
     2.  `Hold`_
     3.  `No Match`_
 
@@ -175,7 +183,7 @@ Reference Check
 ---------------
 Reference check should be the final assessment of skills.  It is designed really as a veto in case any material information has been misstated or other major issues surface.: 
 
-    1.  `If passes, Hire`_
+    1.  If passes, `Hire`_
     2.  `No Match`_
 
 
