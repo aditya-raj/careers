@@ -8,13 +8,13 @@ Build a working blog site
 Your task, should you choose to accept, is to build a simple blogging site using Python, Django, PostgreSQL, and Apache. You will need to checkin your code to Github, so we can pull down the final result and run it locally. This means the entire codebase and any configuration files should be checked in. The following conditions must be met:
 
 - create a public github repository and checkin your code there
+
+	- include https://github.com/votizen/careers/blob/master/.gitignore/ in the root of your repo
+
 - the blog should be written using Django 1.3.x & Python (2.6 or 2.7)
 - the database powering your blog should be PostgreSQL
 - site should be served via Apache and WSGI
 - server configuration, should be included in the github repo
-
-	- include https://github.com/votizen/careers/blob/master/.gitignore/ in the root of your repo
-
 - the blog should allow multple users to log in to add/edit/delete articles
 - staff users can write blog articles
 - all site visitors can comment on blog articles (login not necessary)
