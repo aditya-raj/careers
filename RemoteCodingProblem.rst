@@ -12,6 +12,9 @@ Your task, should you choose to accept, is to build a simple blogging site using
 - the database powering your blog should be PostgreSQL
 - site should be served via Apache and WSGI
 - server configuration, should be included in the github repo
+
+	- include <a href="https://github.com/votizen/careers/blob/master/">.gitignore</a> in the root of your repo
+
 - the blog should allow multple users to log in to add/edit/delete articles
 - staff users can write blog articles
 - all site visitors can comment on blog articles (login not necessary)
