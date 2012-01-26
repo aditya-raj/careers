@@ -2,6 +2,8 @@
 
 .. footer :: ###Page###
 
+.. _USA.gov: http://www.usa.gov
+
 ==================
 Careers at Votizen
 ==================
@@ -21,7 +23,7 @@ Overview
 
 Our Mission
 -----------
-Our mission is to put political power back where it belongs: in the hands of voters.
+Our mission is to create a new political currency based on voter-to-voter connections, reducing the influence of money and increasing the importance of relationships in civic engagement.
 
 Our Vision
 ----------
@@ -29,17 +31,14 @@ We don't believe a broken system is capable of fixing itself.  Change must come 
 
 At Votizen we recognize this and are helping invert the political system, putting voters back into the position of power and influence.  Our members already have millions of friends in their existing personal networks.  We simply identify and connect those who are the most active voters and bring them together, voter-to-voter, based on common interests.  This data- and relationship-driven approach makes voters not passive targets of carefully crafted messages, but active participants in a connected election.
 
-The recommendation of a trusted friend is infinitely more powerful than any 30-second attack ad or robocall.  This has always been true, but in the past our personal networks have been easily overpowered by broadcast networks.  No longer.  Now social networks have the power, and command the attention and respect of those we trust.  Votizen wants to empower these networks to fundamentally redefine politics in 2012 and beyond.  
-
 Business Model
 --------------
-We are a network-effect business; the more voters that participate in the system, the more valuable the overall system becomes.  Network effect businesses are difficult to establish, but once built they are immensely valuable (Facebook, EBay, LinkedIn are other examples of network-effect businesses.)  Politics is a $10B a year industry that has grown 25% per year for fifty straight years; all of the industry's future growth will take place on the political graph, and we are going to be at the center of that market.
+We are a network-effect business; the more voters that participate in the system, the more valuable the overall system becomes.  Network effect businesses are difficult to establish, but once built they are immensely valuable (Facebook, eBay, and LinkedIn are other examples of network-effect businesses).  Politics is a $10B a year industry that has grown 25% per year for fifty straight years; all of the industry's future growth will take place on the political graph and we are going to be at the center of that market.
 
 
 What We're Looking For
 ======================
-Votizen is looking for a strong Python web developer to work on building new features and products related to the Votizen website and API.
-Candidates must have experience in developing web applications using Python and a SQL-based DB, have knowledge of OO engineering principles, believe in unit-testing their code, and understand regular expressions. Expertise in Django and PostgreSQL is preferred. Additional skills in HTML, JavaScript and CSS are also desired. Knowledge of Continuous Deployment Strategies, AWS, Puppet, Redis, Celery, RabbitMQ, and Memcached would be a plus.
+Votizen is looking for strong engineers to work on building new features and products related to the Votizen website and API.  Candidates must have experience in developing web applications using Python and a SQL-based DB, have knowledge of engineering principles, religion in unit-testing their code, and an understanding of regular expressions. Expertise in Django and PostgreSQL is preferred. Additional skills in HTML, JavaScript and CSS are also desired. Knowledge of Continuous Deployment Strategies, AWS, Puppet, Redis, Celery, RabbitMQ, and Memcached would be a plus.
 
 
 Responsibilities
@@ -82,7 +81,7 @@ As our success grows, more and more real people are going to rely on our tools t
 
 Top-notch team
 --------------
-Our team is very strong:  David Binetti, our CEO, has ten years' industry experience and was the creator of one of the first examples of government e-transparency:  USA.gov.  Jason Putorti, our designer, was the lead designer for Mint.com and is one of the most highly sought-after designers in the valley.  Matt Snider, our engineer, is a front-end guru and has written a book on Javascript (literally).  Jeremy Dunck is a Python expert and the Secretary of the Django foundation.  David Gouldin is a contributor to httplib2 which is the dominant python HTTP library.  You get the idea: we want to continue the tradition of only hiring the very best in a given person's field of expertise.
+Our team is very strong:  David Binetti, our CEO, has ten years' industry experience and was the creator of one of the first examples of government e-transparency:  USA.gov_.  Jason Putorti, our designer, was the lead designer for Mint.com and is one of the most highly sought-after designers in the valley.  Matt Snider, our engineer, is a front-end guru and has written a book on Javascript (literally).  Jeremy Dunck is a Python expert and the Secretary of the Django foundation.  David Gouldin is contributing to the Requests library, the successor to httplib2.  You get the idea: we want to continue the tradition of only hiring the very best in a given person's field of expertise.
 
 Agile process
 -------------
@@ -90,34 +89,19 @@ We ascribe to agile development processes.  We are big believers in test-driven 
 
 Great investors
 ---------------
-Our lead investor is Peter Thiel who has an exceptional track record in picking winners.  Our board member is Sean Parker.  We have some of the most prescient investors in the business, including Keith Rabois, Mark Goines, Ron Conway, Chris Dixon, and David Cowan.  These investors see a huge opportunity in a space ripe for disruption, and anyone thinking about participating in this space knows that the group we've assembled is second to none. 
+Our lead investor and board member is Sean Parker, who has been at the forefront of several disruptive companies: Napster, Plaxo, Facebook, Causes, Spotify, and Airtime.  We have some of the most prescient investors in the business, including Keith Rabois, Mark Goines, Ron Conway, Chris Dixon, and David Cowan.  These investors see a huge opportunity in a space ripe for disruption, and our investors are an incredible asset to the company. 
 
 Fantastic culture
 -----------------
-We have a great culture that rewards risk-taking and creativity.  We create features by taking the perspective of the user:  "A member should be able to do FOO in order to accomplish BAR as measured by BAZ."  After that, implementation is up to the engineer.  We are very flexible in our work hours, as long as the job gets done.  And we play hard as well -- the office is very competitive, particularly in Starcraft.
+We have a great culture that rewards risk-taking and creativity.  We create features by taking the perspective of the user:  "A member should be able to do FOO in order to accomplish BAR as measured by BAZ."  After that, implementation is up to the engineer.  We are very flexible in our work hours, as long as the job gets done.  And we play hard as well -- the office is very competitive, particularly in Starcraft2.
 
 Benefits, Perks
 ---------------
-Our benefits and perks are quite light compared to other large companies.  We do have have full health coverage for families, offer commuter checks, and generally try to be as flexible as possible in responding to team members' needs.  But you can forget things like 401Ks, massage therapists and stuff like that.  Our goal is to make our equity so valuable that all those things become rounding errors in our personal net worth.
+Our benefits and perks are quite light compared to other large companies.  We do have have full health coverage for families, offer commuter checks, and generally try to be as flexible as possible in responding to team members' needs.  But you can forget things like 401Ks, massage therapists and espresso machines.  Our goal is to make our equity so valuable that all those things become rounding errors in our personal net worth.
 
 Compensation
 ---------------
 We place a premium on equity participation and not salary.  Our belief is,  "Salary to live on; Equity to retire on."  In fact, we have a hard cap on our salary of $120,000.  No one in the company makes more than that.  
-
-Tools We Use
---------------
-
-- Amazon Web Services
-    - EC2 for front-end servers
-    - S3 for serving content
-    - RDS for backend MySQL databases
-    
-- Redis 
-    - Use for our newsfeed and other streams
-
-- Python
-    - We use Django for our front-end CRUD
-    - twisted (for our asynch API)
 
 Process
 =======
@@ -135,27 +119,27 @@ Once a resume has been received, our HR Director will arrange a 5-10 minute call
 
 After the discussion a decision will be made based on one of two outcomes:
 
-    1.  Send resume for 'Portfolio Review'_
+    1.  Send resume for `Qualifications Review`_
     2.  `No Match`_
 
-Portfolio Review
-----------------
-We review a candidate's resume to assess experience and qualifications.  After the review, there should be one of two outcomes:
+Qualifications Review
+---------------------
+We review a candidate's resume/code reposistories to assess experience and qualifications.  After the review, there should be one of two outcomes:
 
-    1.  Schedule `Sell & Evaluation Screen`_
+    1.  Schedule `Company Vision Presentation`_
     2.  `No Match`_
 
-Sell & Evaluation Screen
-------------------------
-The Sell & Evaluation screen is a 20-30 minute interview where the screener's goal is to sell the Votizen vision, feel out the candidates interest, and read whether or not they would be a good fit. This screener should notify the candidate that the next step is an involved 3-6 hour mandatory coding problem. After the screen, a decision should be immediately made according to one of two outcomes:
+Company Vision Presentation
+---------------------------
+The Company Vision Presentation is a 10-15 minute phone conversation interview where David Binetti, our CEO, has the opportunity to present the company vision, answer any candidate questions, and generally assess whether there is a first-order match.  This step is more for the benefit of the candidate learn about us, and to determine if it is worth investing time in the `Remote Coding Problem`_.
 
-    1.  Send `Remote Coding Problem`_
+    1.  If match and willing, conduct `Remote Coding Problem`_
     2.  `No Match`_
 
 Remote Coding Problem
 ---------------------
 
-The coding problem is included in this repository as RemoteCodingProblem.rst, and is a task that shows they know or can learn Django, Python, and Apache. The completed project should be checked into a public Github account, which we can pull down and run locally. The problem should take 3-6 hours, depending on the candidates understanding of our technology stack, and the amount of extras they add.
+The coding problem is included in this repository as RemoteCodingProblem.rst, and is a task that shows they know or can learn Django, Python, and Apache. The completed project should be checked into a public Github account, which we can pull down and run locally. The problem should take 3-6 hours, depending on the candidate's understanding of our technology stack and the amount of extras they add.
 
     1.  If above bar, schedule `On Site Pair Programming`_
     2.  `No Match`_
@@ -170,7 +154,7 @@ The on site pair programming is an in-person interview, where the candidate will
 
 On Site Team
 ------------
-The on site team is the final step meant to give all team members an opportunity to assess culture fit. Generally, this should immediately follow the "On Site Pair Programming" step and include a lunch or dinner, but if pressed for time, simply a meet-and-greet. Prior to the team meeting, the focus should be on matching the skills to the role. The team meeting is for matching the personality to the culture of the company. After the on site team interview, all team members should come together to make a determination as follows:
+The on site team is the final step meant to give all team members an opportunity to assess culture fit. Generally, this will be a half-day of interviews, followed by lunch or dinner Prior to the team meeting, the focus should be on matching the skills to the role. The team meeting is for matching the personality to the culture of the company. After the on site team interview, all team members should come together to make a determination as follows:
 
     1.  If good fit, `Reference Check`_
     2.  `Hold`_
@@ -180,13 +164,13 @@ Reference Check
 ---------------
 Reference check should be the final assessment of skills.  It is designed really as a veto in case any material information has been misstated or other major issues surface.: 
 
-    1.  If passes, `Hire`_
+    1.  If passes, `Extend Offer`_
     2.  `No Match`_
 
 
-Hire
-----
-Once the decision to hire has been made, the hiring manager must put together and present an offer package within one business day.  **No exceptions**
+Extend Offer
+------------
+Once the decision to extend an offer has been made, the hiring manager must put together and present an offer package within one business day.  **No exceptions**
 
 Hold
 ----
@@ -194,7 +178,7 @@ Periodically we might find good candidates that would be a good match aside from
 
 No Match
 --------
-Most candidates will not be a match.  While each case may be handled individually, all candidates who have on site visits should be informed of no-match via phone.  Others may be informed via email.  All candidates should be treated respectfully.  
+Most candidates will not be a match.  While each case may be handled individually, all candidates who have on-site visits should be informed of no-match via phone.  Others may be informed via email.  All candidates should be treated respectfully.  
 
 Applicant Tracking System
 =========================
