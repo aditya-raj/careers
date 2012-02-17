@@ -13,7 +13,7 @@
 .. _Jeremy Dunck: http://www.linkedin.com/pub/jeremy-dunck/1/323/64b
 .. _David Gouldin: http://www.facebook.com/dgouldin
 .. _Emily Leathers: http://www.usa.gov
-.. _Erik Rose: http://www.usa.gov
+.. _Erik Rose: https://github.com/erikrose
 
 ==================
 Careers at Votizen
@@ -112,9 +112,9 @@ Responsibilities
 Experience
 ++++++++++
 
-- Experience with developing web applications.
+- Experience developing web applications
 
-- Experience with deployment in a cloud-based environment.
+- Experience deploying in a cloud-based environment
 
 - Knowledge of continuous deployment strategies is a huge plus.
 
@@ -139,7 +139,7 @@ As our success grows, more and more real people are going to rely on our tools t
 
 Top-notch team
 --------------
-Our team is very strong:  `David Binetti`_, our CEO, has ten years' industry experience and was the creator of one of the first examples of government e-transparency:  `USA.gov`_.  `Jason Putorti`_, our designer, was the lead designer for `Mint.com`_ and is one of the most highly sought-after designers in the valley.  `Matt Snider`_, our engineer, is a front-end guru and has written a `book on Javascript`_ (literally).  Jeremy Dunck is a Python expert and the Secretary of the `Django`_ foundation.  David Gouldin is contributing to the `Requests`_ library, the successor to httplib2.  You get the idea: we want to continue the tradition of only hiring the very best in a given person's field of expertise.
+Our team is very strong:  `David Binetti`_, our CEO, has ten years' industry experience and was the creator of one of the first examples of government e-transparency:  `USA.gov`_.  `Jason Putorti`_, our designer, was the lead designer for `Mint.com`_ and is one of the most highly sought-after designers in the valley.  `Matt Snider`_, our engineer, is a front-end guru and has written a `book on Javascript`_ (literally).  Jeremy Dunck is a Python expert and the Secretary of the `Django`_ foundation.  David Gouldin is contributing to the `Requests`_ library, the successor to httplib2.  `Erik Rose`_ built large-scale Django sites at Mozilla and is a published author and conference speaker. You get the idea: we want to continue the tradition of only hiring the very best in a given person's field of expertise.
 
 Agile process
 -------------
