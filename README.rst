@@ -1,7 +1,3 @@
-.. header :: ###Title###
-
-.. footer :: ###Page###
-
 .. _USA.gov: http://www.usa.gov
 .. _Mint.com: http://www.usa.gov
 .. _Django: https://www.djangoproject.com/foundation/
@@ -12,7 +8,7 @@
 .. _Matt Snider: http://mattsnider.com  
 .. _Jeremy Dunck: http://www.linkedin.com/pub/jeremy-dunck/1/323/64b
 .. _David Gouldin: http://www.facebook.com/dgouldin
-.. _Emily Leathers: http://www.usa.gov
+.. _Emily Leathers: http://www.linkedin.com/in/eleather
 .. _Erik Rose: https://github.com/erikrose
 
 ==================
@@ -182,7 +178,7 @@ After the discussion a decision will be made based on one of two outcomes:
 
 Qualifications Review
 ---------------------
-We review a candidate's resume/code reposistories to assess experience and qualifications.  After the review, there should be one of two outcomes:
+We review a candidate's resume/code repositories to assess experience and qualifications.  After the review, there should be one of two outcomes:
 
     1.  Schedule `Company Vision Presentation`_
     2.  `No Match`_
@@ -212,7 +208,7 @@ The on site pair programming is an in-person interview, where the candidate will
 
 On Site Team
 ------------
-The on site team is the final step meant to give all team members an opportunity to assess culture fit. Generally, this will be a half-day of interviews, followed by lunch or dinner Prior to the team meeting, the focus should be on matching the skills to the role. The team meeting is for matching the personality to the culture of the company. After the on site team interview, all team members should come together to make a determination as follows:
+The on site team is the final step meant to give all team members an opportunity to assess culture fit. Generally, this will be a half-day of interviews, followed by lunch or dinner. Prior to the team meeting, the focus should be on matching the skills to the role. The team meeting is for matching the personality to the culture of the company. After the on site team interview, all team members should come together to make a determination as follows:
 
     1.  If good fit, `Reference Check`_
     2.  `Hold`_
