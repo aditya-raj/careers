@@ -1,8 +1,15 @@
-.. header :: ###Title###
-
-.. footer :: ###Page###
-
 .. _USA.gov: http://www.usa.gov
+.. _Mint.com: http://www.usa.gov
+.. _Django: https://www.djangoproject.com/foundation/
+.. _book on javascript: http://http://www.packtpub.com/yahoo-user-interface-library-2x-cookbook/book
+.. _Requests: http://http://docs.python-requests.org/en/latest/index.html
+.. _David Binetti: http://davidbinetti.com
+.. _Jason Putorti: http://jasonputorti.com/
+.. _Matt Snider: http://mattsnider.com  
+.. _Jeremy Dunck: http://www.linkedin.com/pub/jeremy-dunck/1/323/64b
+.. _David Gouldin: http://www.facebook.com/dgouldin
+.. _Emily Leathers: http://www.linkedin.com/in/eleather
+.. _Erik Rose: https://github.com/erikrose
 
 ==================
 Careers at Votizen
@@ -35,34 +42,81 @@ Business Model
 --------------
 We are a network-effect business; the more voters that participate in the system, the more valuable the overall system becomes.  Network effect businesses are difficult to establish, but once built they are immensely valuable (Facebook, eBay, and LinkedIn are other examples of network-effect businesses).  Politics is a $10B a year industry that has grown 25% per year for fifty straight years; all of the industry's future growth will take place on the political graph and we are going to be at the center of that market.
 
+Our Technology
+--------------
+We are data-driven company.  We start with a database of the nearly 200 million registered voters in the United States with more than a billion rows of voter history.  We then graph this data against the social networks of our members, empowering them to campaign for the candidates and causes they believe in.  On the front end, we employ a LAMP stack: specifically Ubuntu, Apache, MySQL/PostgreSQL, and Python (within the Django framework.)  We also use cool stuff like Redis, Celery, Rabbit, Memcached, Puppet, Selenium, Nagios, Vagrant, HA Proxy, and Elastic Search.  And everything operates in the cloud, of course: specifically on Amazon Web Services using EC2, S3, Route 53 and other cloud goodness.
+
+How We Code
+-----------
+
+Our development philosophy is based on one principle -- speed.  We practice Continuous Deployment: commits are pushed to production within about ten minutes.  We don't have a staging server or QA department.  This means that we need to have high discipline on test coverage to ensure that our build stays green.  The emphasis is on fixing things quickly more than writing bug-free code from the outset.  We have weekly sprints with daily standups at 9:58AM and PivotalTracker keeps us on target, but otherwise we try to keep process to an absolute minimum.  It's all about developing features and shipping them to our users as quickly as possible.
+
 
 What We're Looking For
 ======================
-Votizen is looking for strong engineers to work on building new features and products related to the Votizen website and API.  Candidates must have experience in developing web applications using Python and a SQL-based DB, have knowledge of engineering principles, religion in unit-testing their code, and an understanding of regular expressions. Expertise in Django and PostgreSQL is preferred. Additional skills in HTML, JavaScript and CSS are also desired. Knowledge of Continuous Deployment Strategies, AWS, Puppet, Redis, Celery, RabbitMQ, and Memcached would be a plus.
 
+Engineer
+--------
+
+We want strong engineers to work on building new features and products related to the Votizen website and API.  We want very smart people who are accustomed to moving fast under conditions of uncertainty and who share our vision for improving democracy.
 
 Responsibilities
-================
+++++++++++++++++
 
-- Analyze, architect, and develop database-driven applications using Python, Django, HTML, Javascript, and PostgreSQL.
+- Analyze, architect, and develop applications on LAMP stack: Ubuntu, Apache, MySQL/PostgreSQL, Python (within Django framework).
 
 - Research, analyze, implement and integrate new mechanisms and technologies to solve technical problems (don't reinvent the wheel).
 
-- Proven experience in developing high availability, high volume web based applications using Python, Django, and PostgreSQL.
+- Be prepared to move fast and be flexible.
 
 
 Experience
-==========
+++++++++++
 
-- Experience with HTML, Javascript, and CSS.
+- Experience with developing LAMP-based applications is required.
+
+- Solid knowledge of engineering principles, religion in unit-testing code, and an understanding of regular expressions.
 
 - Experience with the APIs from social networks like Facebook and Twitter.
 
 - Experience with database design and optimizations.
 
-- Strong written and verbal communication skills.
+- Experience with Python, Django and PostgreSQL is preferred.
 
-- Excel at working in a highly collaborative environment.
+- Experience with HTML, JavaScript, and CSS is desired.
+
+DevOps
+------
+
+We are looking for an operationally focused engineer to be our DevOps lead.  This person will own the entire application release process, ensuring coordination between all developers and automating the process to the greatest extent possible.
+
+
+Responsibilities
+++++++++++++++++
+
+- Ensure high-availability of our cloud-based production environment.
+
+- Build effective deployment systems that are fully contributory to our development environment.
+
+- Build effective monitoring systems that alert us to problems at the earliest possible moment with infrequent false positives.
+
+- Develop scalability plans with our development stack clearly in mind.
+
+- Ensure the highest degree of security in our systems, both internally and externally.
+
+
+Experience
+++++++++++
+
+- Experience developing web applications
+
+- Experience deploying in a cloud-based environment
+
+- Knowledge of continuous deployment strategies is a huge plus.
+
+- Experience with tools such as Puppet, Vagrant, Nagios (or their equivalent) is required.
+
+- Experience with database administration and ETL is a huge plus.
 
 What We Offer
 =============
@@ -81,7 +135,7 @@ As our success grows, more and more real people are going to rely on our tools t
 
 Top-notch team
 --------------
-Our team is very strong:  David Binetti, our CEO, has ten years' industry experience and was the creator of one of the first examples of government e-transparency:  USA.gov_.  Jason Putorti, our designer, was the lead designer for Mint.com and is one of the most highly sought-after designers in the valley.  Matt Snider, our engineer, is a front-end guru and has written a book on Javascript (literally).  Jeremy Dunck is a Python expert and the Secretary of the Django foundation.  David Gouldin is contributing to the Requests library, the successor to httplib2.  You get the idea: we want to continue the tradition of only hiring the very best in a given person's field of expertise.
+Our team is very strong:  `David Binetti`_, our CEO, has ten years' industry experience and was the creator of one of the first examples of government e-transparency:  `USA.gov`_.  `Jason Putorti`_, our designer, was the lead designer for `Mint.com`_ and is one of the most highly sought-after designers in the valley.  `Matt Snider`_, our engineer, is a front-end guru and has written a `book on Javascript`_ (literally).  Jeremy Dunck is a Python expert and the Secretary of the `Django`_ foundation.  David Gouldin is contributing to the `Requests`_ library, the successor to httplib2.  `Erik Rose`_ built large-scale Django sites at Mozilla and is a published author and conference speaker. You get the idea: we want to continue the tradition of only hiring the very best in a given person's field of expertise.
 
 Agile process
 -------------
@@ -105,7 +159,7 @@ We place a premium on equity participation and not salary.  Our belief is,  "Sal
 
 Process
 =======
-Following is the hiring process to which we aspire:
+Following is the hiring process to which we aspire.  It is designed to be transparent, challenging, respectful, and above all -- fast.:
 
 Prescreen
 ----------
@@ -124,7 +178,7 @@ After the discussion a decision will be made based on one of two outcomes:
 
 Qualifications Review
 ---------------------
-We review a candidate's resume/code reposistories to assess experience and qualifications.  After the review, there should be one of two outcomes:
+We review a candidate's resume/code repositories to assess experience and qualifications.  After the review, there should be one of two outcomes:
 
     1.  Schedule `Company Vision Presentation`_
     2.  `No Match`_
@@ -154,7 +208,7 @@ The on site pair programming is an in-person interview, where the candidate will
 
 On Site Team
 ------------
-The on site team is the final step meant to give all team members an opportunity to assess culture fit. Generally, this will be a half-day of interviews, followed by lunch or dinner Prior to the team meeting, the focus should be on matching the skills to the role. The team meeting is for matching the personality to the culture of the company. After the on site team interview, all team members should come together to make a determination as follows:
+The on site team is the final step meant to give all team members an opportunity to assess culture fit. Generally, this will be a half-day of interviews, followed by lunch or dinner. Prior to the team meeting, the focus should be on matching the skills to the role. The team meeting is for matching the personality to the culture of the company. After the on site team interview, all team members should come together to make a determination as follows:
 
     1.  If good fit, `Reference Check`_
     2.  `Hold`_
