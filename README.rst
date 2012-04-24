@@ -208,7 +208,7 @@ The on site pair programming is an in-person interview, where the candidate will
 
 On Site Team
 ------------
-The on site team is the final step meant to give all team members an opportunity to assess culture fit. Generally, this will be a half-day of interviews, followed by lunch or dinner. Prior to the team meeting, the focus should be on matching the skills to the role. The team meeting is for matching the personality to the culture of the company. After the on site team interview, all team members should come together to make a determination as follows:
+The on site team is the final step meant to give all team members an opportunity to assess culture fit. Generally, this will be a half-day of interviews. Prior to the team meeting, the focus should be on matching the skills to the role. The team meeting is for matching the personality to the culture of the company. After the on site team interview, all team members should come together to make a determination as follows:
 
     1.  If good fit, `Reference Check`_
     2.  `Hold`_
