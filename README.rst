@@ -136,7 +136,7 @@ Once a resume has been received, our HR Director will arrange a 5-10 minute call
     1. Have you done any web development?
     2. What is your experience in Python/Django?
     3. Are you familiar with startup environments?
-    4. Are you willing to work out of our Mountain View office daily?
+    4. Are you willing to work out of our San Francisco / SoMa office daily?
     5. What is your interest in politics?
 
 After the discussion a decision will be made based on one of two outcomes:
