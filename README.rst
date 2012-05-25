@@ -31,29 +31,23 @@ Overview
 
 Our Mission
 -----------
-We seek to create a world where political influence is based on the size of your network and not just the size of your checkbook.
-
-Our Vision
-----------
-We don't believe a broken system is capable of fixing itself.  Change must come from outside.  Social media are disrupting politics in profound ways, creating a new model for civic engagement.  
-
-At Votizen we recognize this and are helping invert the political system, putting voters back into the position of power and influence.  Our members already have millions of friends in their existing personal networks.  We simply identify and connect those who are the most active voters and bring them together, voter-to-voter, based on common interests.  This data- and relationship-driven approach makes voters not passive targets of carefully crafted messages, but active participants in a connected election.
+Our mission is to create a world where political influence is based on the size of your network and not the size of your checkbook.
 
 Our Team
 --------
-`David Binetti`_, our CEO, has ten years industry experience and was the creator of one of the first examples of government e-transparency:  `USA.gov`_.  `Jason Putorti`_, our designer, was the lead designer for `Mint.com`_ and is one of the most highly sought-after designers in the valley.  `Matt Snider`_, our engineer, is a front-end guru and has written a `book on Javascript`_ (literally).  `Jeremy Dunck`_ is a Python expert and the Secretary of the `Django`_ foundation.  `David Gouldin`_ is contributing to the `Requests`_ library, the successor to httplib2.  `Emily Leathers`_ was the third engineer at Rapleaf. `Erik Rose`_ built large-scale Django sites at Mozilla and is a published author and conference speaker. You get the idea: we want to continue the tradition of only hiring the very best in a given person's field of expertise. 
-
-Business Model
---------------
-We are a network-effect business; the more voters that participate in the system, the more valuable the overall system becomes.  Network effect businesses are difficult to establish, but once built they are immensely valuable (Facebook, eBay, and LinkedIn are other examples of network-effect businesses).  Politics is a $10B a year industry that has grown 25% per year for fifty straight years; all of the industry's future growth will take place on the political graph and we are going to be at the center of that market.
+`David Binetti`_, our CEO, has ten years industry experience and was the creator of one of the first examples of government e-transparency:  `USA.gov`_.  `Jason Putorti`_, our designer, was the lead designer for `Mint.com`_ and is one of the most talented designers in tech.  `Matt Snider`_, our engineer, is a front-end guru and has written a `book on Javascript`_ (literally).  `Jeremy Dunck`_ is a Python expert and the Secretary of the `Django`_ foundation.  `David Gouldin`_ is contributing to the `Requests`_ library, the successor to httplib2.  `Emily Leathers`_ was the third engineer at Rapleaf. `Erik Rose`_ built large-scale Django sites at Mozilla and is a published author and conference speaker. You get the idea: we want to continue the tradition of only hiring the very best in a given person's field of expertise. 
 
 Our Technology
 --------------
-We are data-driven company.  We start with a database of the nearly 200 million registered voters in the United States with more than a billion rows of voter history.  We then graph this data against the social networks of our members, empowering them to campaign for the candidates and causes they believe in.  On the front end, we employ a LAMP stack: specifically Ubuntu, Apache, MySQL/PostgreSQL, and Python (within the Django framework.)  We also use cool stuff like Redis, Celery, Rabbit, Memcached, Puppet, Selenium, Nagios, Vagrant, HA Proxy, and Elastic Search.  And everything operates in the cloud, of course; specifically, Amazon Web Services using EC2, S3, Route 53 and other cloud goodness.
+We are data-driven company.  We start with a database of the nearly 200 million registered voters in the United States with billions of rows of voter history.  We then graph this data against the social networks of our members, empowering them to campaign for the candidates and causes in which they believe.  On the front end, we employ a LAMP stack: specifically Ubuntu, Apache, MySQL/PostgreSQL, and Python (within the Django framework.)  We also use cool stuff like Redis, Celery, Rabbit, Memcached, Puppet, Selenium, Nagios, Vagrant, HA Proxy, and Elastic Search on the back-end.  And everything operates in the cloud; specifically, on Amazon Web Services using EC2, S3, Route 53 and other cloud goodness.
 
 How We Code
 -----------
-Our development philosophy is based on one principle: speed.  We practice Continuous Deployment; commits are pushed to production within about ten minutes.  We don't have a staging server or QA department.  This means that we need to have high discipline on test coverage to ensure that our build stays green.  The emphasis is on fixing things quickly more than writing bug-free code from the outset.  We have weekly sprints with daily standups at 9:58AM and PivotalTracker keeps us on target, but otherwise we try to keep process to a minimum.  It's all about developing features and shipping them to our users as quickly as possible.
+Our development philosophy is based on one principle: speed.  We practice Continuous Deployment; commits are pushed to production within about ten minutes.  We don't have a staging server or QA department.  This means that we need to have high discipline on test coverage to ensure that our build stays green.  The emphasis is on fixing things quickly more than writing bug-free code from the outset.  We have weekly sprints with daily standups and PivotalTracker keeps us on target, but otherwise we try to keep process to a minimum.  It's all about developing features and shipping them to our users as quickly as possible.
+
+Everybody Codes
+---------------
+We are building a technology company and expect people to be familiar with the tools we use to build our products.  This means that everybody codes.  Our designers have CS degrees.  Our CEO built the first iteration of the product.  Even our admin knows how to edit the Django admin.  Now this doesn't mean that everyone's code makes it into production, but it does mean that we all can speak a common language and have an appreciation for what it means to develop a web application.
 
 
 What We Are Looking For
@@ -62,16 +56,16 @@ What We Are Looking For
 Engineer
 --------
 
-We want very smart people who are accustomed to moving fast under conditions of uncertainty to help us build features related to our front- and back-end features.
+We want very smart people who are accustomed to moving fast under conditions of uncertainty.
 
 Responsibilities
 ++++++++++++++++
 
 - Analyze, architect, and develop applications on LAMP stack: Ubuntu, Apache, MySQL/PostgreSQL, Python (within Django framework).
 
-- Research, analyze, implement and integrate new mechanisms and technologies to solve technical problems (don't reinvent the wheel).
+- Research, implement and integrate new mechanisms and technologies to solve technical problems (don't reinvent the wheel).
 
-- Be prepared to move fast and be flexible.
+- Be prepared to move fast and be flexible, holding your own alongside some very talented engineers.
 
 
 Experience
@@ -83,11 +77,40 @@ Experience
 
 - Experience with the APIs from social networks like Facebook and Twitter.
 
-- Experience with database design and optimizations.
+- Experience with database design and optimizations is preferred.
 
 - Experience with Python, Django and PostgreSQL is preferred.
 
 - Experience with HTML, JavaScript, and CSS is desired.
+
+
+Product Manager
+---------------
+
+Serve as the primary interface between product and engineering.
+
+Responsibilities
+++++++++++++++++
+
+- Use tools like PivotalTracker to keep the team on target.
+
+- Understand how to effectively translate marketing requirements into technical deliverables.
+
+- Keep process to a minimum; we are not looking for someone to write full-blown MRDs or PRDs.  But we do need to deliver on time.
+
+
+Experience
+++++++++++
+
+- Unbelievable attention to detail is an absolute must.
+
+- A strong track record of delivering large, complicated products/projects with multiple moving parts will be preferred.  This role is closer to project management than most traditional PM roles.
+
+- A strong technical background is required.
+
+- A CS or other engineering degree is preferred.
+
+- Borderline OCD is a plus.  We're not kidding.  
 
 
 What We Offer
@@ -99,7 +122,7 @@ First and foremost, we're working on something that truly has the potential to c
 
 Hard technical challenges
 -------------------------
-We have huge challenges in machine learning, classification, and scale.  Our database already has every voter in the United States plus their voting history -- in some cases going back thirty years.  This is a billion rows of data and we've barely even started.  We need to figure out how to process this information in way that is meaningful to each and every voter starting in the US (200 million voters) and eventually abroad (Democracy is a growth business.)  Moreover, we have a new approach to social networking that uses dynamic linking, meaning: forming and re-forming the interest graph as opinions change, accommodating new nodes and edges in realtime along the way.  No one has done this before, and it represents the future of social networks.
+We have huge challenges in machine learning, classification, and scale.  Our database already has every voter in the United States plus their voting history -- in some cases going back thirty years.  This is a billion rows of data and we've barely even started.  We need to figure out how to process this information in way that is meaningful to each and every voter starting in the US (200 million voters) and eventually abroad (Democracy is a growth business.)  
 
 Lasting Impact
 --------------
@@ -111,7 +134,11 @@ We ascribe to agile development processes.  We are big believers in test-driven 
 
 Great investors
 ---------------
-Our lead investor and board member is Sean Parker, who has been at the forefront of several disruptive companies: Napster, Plaxo, Facebook, Causes, Spotify, and Airtime.  We have some of the most prescient investors in the business, including Keith Rabois, Mark Goines, Ron Conway, Chris Dixon, and David Cowan.  These investors see a huge opportunity in a space ripe for disruption, and our investors are an incredible asset to the company. 
+Our lead investor and board member is Sean Parker, who has been at the forefront of several disruptive companies: Napster, Plaxo, Facebook, Causes, Spotify, and Airtime.  We have some of the most prescient investors in the business, including Keith Rabois, Mark Goines, Ron Conway, Aydin Senkut, Chris Dixon, and David Cowan.  These investors see a huge opportunity in a space ripe for disruption, and our investors are an incredible asset to the company. 
+
+Incredible Office
+-----------------
+We have an incredible office located at 292 Townsend, immediately across from the Caltrain station at 4th and King.  It is a space with a full commercial kitchen, twenty-foot ceilings, and a huge outdoor courtyard that simply needs to be seen to be believed.  Every person says it is hands-down the best office in which they have ever worked.
 
 Fantastic culture
 -----------------
@@ -123,7 +150,7 @@ Our benefits and perks are quite light compared to other large companies.  We do
 
 Compensation
 ---------------
-We place a premium on equity participation and not salary.  Our belief is,  "Salary to live on; Equity to retire on."  In fact, we have a hard cap on our salary of $120,000.  No one in the company makes more than that.  
+We place a premium on equity participation and not salary.  Our belief is,  "Salary to live on; Equity to retire on."  In fact, we have a hard cap on our salary of $120,000.  Many make less, but no one in the company makes more than that.  
 
 Process
 =======
@@ -136,7 +163,7 @@ Once a resume has been received, our HR Director will arrange a 5-10 minute call
     1. Have you done any web development?
     2. What is your experience in Python/Django?
     3. Are you familiar with startup environments?
-    4. Are you willing to work out of our Mountain View office daily?
+    4. Are you willing to work out of our San Francisco office daily?
     5. What is your interest in politics?
 
 After the discussion a decision will be made based on one of two outcomes:
@@ -153,7 +180,7 @@ We review a candidate's resume/code repositories to assess experience and qualif
 
 Company Vision Presentation
 ---------------------------
-The Company Vision Presentation is a 10-15 minute phone conversation interview where David Binetti, our CEO, has the opportunity to present the company vision, answer any candidate questions, and generally assess whether there is a first-order match.  This step is more for the benefit of the candidate learn about us, and to determine if it is worth investing time in the `Remote Coding Problem`_.
+The Company Vision Presentation is a 10-15 minute phone conversation interview where David Binetti, our CEO, has the opportunity to present the company vision, answer any candidate questions, and generally assess whether there is a first-order match.  This step is more for the benefit of the candidate learn about us, and to determine if it is worth investing time in the `Remote Coding Problem`_ exercise:
 
     1.  If match and willing, conduct `Remote Coding Problem`_
     2.  `No Match`_
@@ -161,7 +188,7 @@ The Company Vision Presentation is a 10-15 minute phone conversation interview w
 Remote Coding Problem
 ---------------------
 
-The coding problem is included in this repository as RemoteCodingProblem.rst, and is a task that shows they know or can learn Django, Python, and Apache. The completed project should be checked into a public Github account, which we can pull down and run locally. The problem should take 3-6 hours, depending on the candidate's understanding of our technology stack and the amount of extras they add.
+The coding problem is included in this repository as RemoteCodingProblem.rst, and is a task that shows they know or can learn Django, Python, and Apache. The completed project should be checked into a public Github account, which we can pull down and run locally. The problem should take 3-6 hours, depending on the candidate's understanding of our technology stack and the amount of extras they add:
 
     1.  If above bar, schedule `On Site Pair Programming`_
     2.  `No Match`_
@@ -176,7 +203,7 @@ The on site pair programming is an in-person interview, where the candidate will
 
 On Site Team
 ------------
-The on site team is the final step meant to give all team members an opportunity to assess culture fit. Generally, this will be a half-day of interviews. Prior to the team meeting, the focus should be on matching the skills to the role. The team meeting is for matching the personality to the culture of the company. After the on site team interview, all team members should come together to make a determination as follows:
+The on site team is the final step meant to give all team members an opportunity to assess culture fit. Generally, this will be a full-day of interviews. Prior to the team meeting, the focus should be on matching the skills to the role. The team meeting is primarily (though not exclusively) for matching the personality to the culture of the company. After the on site team interview, all team members should come together to make a determination as follows:
 
     1.  If good fit, `Reference Check`_
     2.  `Hold`_
@@ -184,7 +211,7 @@ The on site team is the final step meant to give all team members an opportunity
 
 Reference Check
 ---------------
-Reference check should be the final assessment of skills.  It is designed really as a veto in case any material information has been misstated or other major issues surface.: 
+Reference check should be the final assessment of skills.  It is designed really as a veto in case any material information has been misstated or other major issues surface: 
 
     1.  If passes, `Extend Offer`_
     2.  `No Match`_
@@ -200,7 +227,7 @@ Periodically we might find good candidates that would be a good match aside from
 
 No Match
 --------
-Most candidates will not be a match.  While each case may be handled individually, all candidates who have on-site visits should be informed of no-match via phone.  Others may be informed via email.  All candidates should be treated respectfully.  
+Most candidates will not be a match.  While each case may be handled individually, all candidates who have on-site visits should be informed of no-match via phone.  Others may be informed via email.  All candidates will be treated respectfully.  
 
 Applicant Tracking System
 =========================
