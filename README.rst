@@ -11,6 +11,9 @@
 .. _Emily Leathers: http://www.linkedin.com/in/eleather
 .. _Erik Rose: https://github.com/erikrose
 .. _Justin Lynn: https://github.com/justinlynn
+.. _Apply to be an Engineer: http://hire.jobvite.com/j/?aj=oKTSVfwa&s=GitHub
+.. _Apply to be a Product Manager: http://hire.jobvite.com/j/?aj=orDrWfwb&s=GitHub
+
 
 ==================
 Careers at Votizen
@@ -83,6 +86,12 @@ Experience
 
 - Experience with HTML, JavaScript, and CSS is desired.
 
+Apply
++++++
+
+`Apply to be an Engineer`_.
+
+-------------------------------------------------------------------------
 
 Product Manager
 ---------------
@@ -111,6 +120,11 @@ Experience
 - A CS or other engineering degree is preferred.
 
 - Borderline OCD is a plus.  We're not kidding.  
+
+Apply
++++++
+
+`Apply to be a Product Manager`_.
 
 
 What We Offer
@@ -228,11 +242,6 @@ Periodically we might find good candidates that would be a good match aside from
 No Match
 --------
 Most candidates will not be a match.  While each case may be handled individually, all candidates who have on-site visits should be informed of no-match via phone.  Others may be informed via email.  All candidates will be treated respectfully.  
-
-Applicant Tracking System
-=========================
-
-To apply, please use our links from our main job page at https://www.votizen.com/jobs.  
 
 Special Note for Recruiters
 ===========================
